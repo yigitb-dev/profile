@@ -28,11 +28,12 @@ Scrapes football data (player ratings, stats) from FotMob and organizes it into 
 - Languages: Python
 - Libraries: Selenium, BeautifulSoup, pandas
 
-### 3. [Desktop Optimization Tools](https://github.com/yigitb-dev/desktop-optimization-tools)
-Python utilities to organize files, remove duplicates, and optimize desktop workflows.  
+### 3.[opti-core](https://github.com/yigitb-dev/opti-core)
+Python utilities to organize files, remove duplicates, and optimize desktop workflows.
 - Features: Downloads organizer, duplicate remover, folder cleaner
 - Languages: Python
 - Libraries: os, shutil
+
 
 ---
 
